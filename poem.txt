@@ -3,6 +3,7 @@ rainbow colors
 blue
 green
 yellow
+brown
 purple
 magenta
 these are the colors of the rainbow
