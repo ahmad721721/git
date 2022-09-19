@@ -5,6 +5,7 @@ green
 yellow
 brown
 unicorn
+red
 purple
 magenta
 these are the colors of the rainbow
